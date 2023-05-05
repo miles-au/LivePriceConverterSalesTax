@@ -1,0 +1,642 @@
+80001,Arvada,1.0796000000000001
+80002,Denver,1.0881
+80003,Westminster,1.086
+80004,Arvada,1.0796000000000001
+80005,Westminster,1.0835
+80006,Arvada,1.0796000000000001
+80007,Arvada,1.0796000000000001
+80010,Denver,1.0881
+80011,Aurora,1.085
+80012,Denver,1.0881
+80013,Aurora,1.085
+80014,Denver,1.0881
+80015,Aurora,1.08
+80016,Aurora,1.0875
+80017,Aurora,1.08
+80018,Aurora,1.08
+80019,Denver,1.0881
+80020,Louisville,1.08835
+80021,Broomfield Arista Sp,1.0835
+80022,Commerce City,1.0925
+80023,Westminster,1.086
+80024,Adams,1.0475
+80025,Boulder,1.05185
+80026,Lafayette,1.09055
+80027,Lafayette,1.09055
+80030,Westminster,1.086
+80031,Federal Heights,1.0875
+80033,Wheat Ridge,1.08
+80034,Wheat Ridge,1.08
+80035,Westminster,1.086
+80036,Westminster,1.086
+80037,Commerce City,1.0925
+80038,Broomfield,1.0815
+80040,Aurora,1.085
+80041,Aurora,1.08
+80042,Aurora,1.085
+80044,Aurora,1.08
+80045,Aurora,1.085
+80046,Centennial,1.0675
+80047,Aurora,1.08
+80101,Elbert,1.039
+80102,Bennett,1.0775
+80103,Elbert,1.039
+80104,Castle Rock,1.079
+80105,Elbert,1.039
+80106,Pikes Peak Rta,1.0513
+80107,Elizabeth,1.079
+80108,Parker,1.08
+80109,Castle Rock,1.079
+80110,Denver,1.0881
+80111,Denver,1.0881
+80112,Englewood,1.0805
+80113,Denver,1.0881
+80116,Castle Rock,1.079
+80117,Kiowa,1.054
+80118,Larkspur,1.079
+80120,Littleton,1.0875
+80121,Englewood,1.0805
+80122,Littleton,1.08
+80123,Denver,1.0881
+80124,Lone Tree,1.078125
+80125,Lone Tree,1.078125
+80126,Highlands Ranch,1.05
+80127,Denver,1.0881
+80128,Littleton,1.0868
+80129,Littleton,1.0875
+80130,Highlands Ranch,1.05
+80131,Douglas,1.04
+80132,Monument,1.0863
+80133,Monument,1.0863
+80134,Parker,1.08
+80135,Castle Pines North,1.0675
+80136,Adams,1.0375
+80137,Aurora,1.085
+80138,Aurora,1.0875
+80150,Englewood,1.0805
+80151,Englewood,1.0805
+80155,Greenwood Village,1.0725
+80160,Littleton,1.08
+80161,Centennial,1.0675
+80162,Southeast Jefferson County Lid,1.05
+80163,Highlands Ranch,1.05
+80165,Littleton,1.08
+80166,Littleton,1.08
+80201,Denver,1.0881
+80202,Denver,1.0881
+80203,Denver,1.0881
+80204,Denver,1.0881
+80205,Denver,1.0881
+80206,Denver,1.0881
+80207,Denver,1.0881
+80208,Denver,1.0881
+80209,Denver,1.0881
+80210,Denver,1.0881
+80211,Denver,1.0881
+80212,Denver,1.0881
+80214,Denver,1.0881
+80215,Wheat Ridge,1.08
+80216,Commerce City,1.0925
+80217,Denver,1.0881
+80218,Denver,1.0881
+80219,Denver,1.0881
+80220,Denver,1.0881
+80221,Denver,1.0881
+80222,Denver,1.0881
+80223,Denver,1.0881
+80224,Denver,1.0881
+80225,Lakewood,1.075
+80226,Denver,1.0881
+80227,Denver,1.0881
+80228,Lakewood,1.075
+80229,Thornton,1.085
+80230,Denver,1.0881
+80231,Denver,1.0881
+80232,Denver,1.0881
+80233,Northglenn,1.0875
+80234,Federal Heights,1.0875
+80235,Denver,1.0881
+80236,Denver,1.0881
+80237,Denver,1.0881
+80238,Commerce City,1.0925
+80239,Denver,1.0881
+80241,Northglenn,1.0875
+80243,Denver,1.0881
+80244,Denver,1.0881
+80246,Denver,1.0881
+80247,Denver,1.0881
+80248,Denver,1.0881
+80249,Denver,1.0881
+80250,Denver,1.0881
+80256,Denver,1.0881
+80257,Denver,1.0881
+80259,Denver,1.0881
+80260,Federal Heights,1.0875
+80261,Denver,1.0881
+80263,Denver,1.0881
+80264,Denver,1.0881
+80265,Denver,1.0881
+80266,Commerce City,1.0925
+80271,Denver,1.0881
+80273,Denver,1.0881
+80274,Denver,1.0881
+80281,Denver,1.0881
+80290,Denver,1.0881
+80291,Denver,1.0881
+80293,Denver,1.0881
+80294,Denver,1.0881
+80299,Denver,1.0881
+80301,Lafayette,1.09055
+80302,Boulder,1.09045
+80303,Lafayette,1.09055
+80304,Boulder,1.09045
+80305,Boulder,1.09045
+80306,Boulder,1.09045
+80307,Boulder,1.09045
+80308,Boulder,1.09045
+80309,Boulder,1.09045
+80310,Boulder,1.09045
+80314,Boulder,1.09045
+80401,Wheat Ridge,1.08
+80402,Golden,1.075
+80403,Wheat Ridge,1.08
+80419,Golden,1.075
+80420,Alma,1.079
+80421,Jefferson,1.045
+80422,Black Hawk,1.089
+80423,Eagle County Mass Transit(Mts),1.049
+80424,Breckenridge,1.08875
+80425,Jefferson,1.045
+80426,Eagle County Mass Transit(Mts),1.049
+80427,Black Hawk,1.089
+80428,Routt,1.039
+80429,Lake,1.069
+80430,Jackson,1.069
+80432,Park Co South Park Health Service District Sp,1.049
+80433,Conifer Metropolitan District Sp,1.0525
+80434,Jackson,1.069
+80435,Dillon,1.08875
+80436,Clear Creek,1.0555
+80437,Jefferson,1.045
+80438,Empire,1.1055
+80439,Clear Creek,1.0555
+80440,Fairplay,1.089
+80442,Fraser,1.092
+80443,Frisco,1.08375
+80444,Georgetown,1.1005
+80446,Granby,1.082
+80447,Grand Lake,1.092
+80448,Park Co South Park Health Service District Sp,1.049
+80449,Chaffee,1.0565
+80451,Hot Sulphur Springs,1.082
+80452,Idaho Springs,1.1055
+80453,Jefferson,1.045
+80454,Jefferson,1.045
+80455,Ward,1.07185
+80456,Park Co South Park Health Service District Sp,1.049
+80457,Jefferson,1.045
+80459,Kremmling,1.082
+80461,Leadville,1.069
+80463,Eagle County Mass Transit(Mts),1.049
+80465,Morrison,1.0825
+80466,Nederland,1.09435
+80467,Oak Creek,1.069
+80468,Grand,1.042
+80469,Routt,1.039
+80470,Jefferson,1.045
+80471,Boulder,1.05185
+80473,Jackson,1.069
+80474,Gilpin,1.029
+80475,Park,1.039
+80476,Silver Plume,1.0855
+80477,Steamboat Springs,1.084
+80478,Grand,1.042
+80479,Routt,1.039
+80480,Walden,1.079
+80481,Ward,1.07185
+80482,Winter Park,1.112
+80483,Yampa,1.059
+80487,Steamboat Springs,1.084
+80488,Steamboat Springs Local Marketing District,1.084
+80497,Silverthorne,1.08375
+80498,Summit County Housing,1.10375
+80501,Longmont,1.08715
+80502,Longmont,1.08715
+80503,Boulder,1.09045
+80504,Longmont,1.08715
+80510,Boulder,1.05185
+80511,Estes Park Local Marketing District,1.037
+80512,Larimer,1.037
+80513,Berthoud,1.077
+80514,Frederick,1.064
+80515,Estes Park Local Marketing District,1.037
+80516,Erie,1.08685
+80517,Estes Park,1.087
+80520,Firestone,1.065
+80521,Fort Collins,1.0755
+80522,Fort Collins,1.0755
+80523,Fort Collins,1.0755
+80524,Fort Collins,1.0755
+80525,Fort Collins,1.0755
+80526,Fort Collins,1.0755
+80527,Fort Collins,1.0755
+80528,Fort Collins,1.0755
+80530,Firestone,1.065
+80532,Estes Park Local Marketing District,1.037
+80533,Boulder,1.05185
+80534,Johnstown,1.072
+80535,Larimer,1.037
+80536,Larimer,1.037
+80537,Berthoud,1.077
+80538,Windsor,1.0735
+80539,Loveland,1.067
+80540,Lyons,1.08685
+80541,Larimer,1.037
+80542,Mead,1.059
+80543,Greeley,1.0701
+80544,Boulder Oldtn Niwot Ld Sp,1.06185
+80545,Larimer,1.037
+80546,Severance,1.059
+80547,Timnath,1.067
+80549,Wellington,1.067
+80550,Windsor,1.0735
+80551,Windsor,1.0655000000000001
+80553,Fort Collins,1.0755
+80601,Commerce City,1.0925
+80602,Thornton,1.085
+80603,Commerce City,1.0925
+80610,Ault,1.059
+80611,Weld,1.029
+80612,Larimer,1.037
+80614,Thornton,1.085
+80615,Eaton,1.059
+80620,Evans,1.074
+80621,Brighton,1.0765
+80622,Weld,1.029
+80623,Gilcrest,1.069
+80624,Weld,1.029
+80631,Evans,1.074
+80632,Greeley,1.0701
+80633,Greeley,1.0701
+80634,Evans,1.074
+80638,Greeley,1.0701
+80639,Greeley,1.0701
+80640,Commerce City,1.0925
+80642,Hudson,1.069
+80643,Hudson,1.069
+80644,Kersey,1.065
+80645,Evans,1.074
+80646,Weld,1.029
+80648,Nunn,1.049
+80649,Morgan County,1.029
+80650,Pierce,1.049
+80651,Gilcrest,1.069
+80652,Adams,1.0375
+80653,Morgan County,1.029
+80654,Wiggins,1.059
+80701,Fort Morgan,1.069
+80705,Log Lane Village,1.059
+80720,Akron,1.069
+80721,Sedgwick,1.059
+80722,Logan,1.039
+80723,Brush,1.069
+80726,Sedgwick,1.059
+80727,Yuma County,1.05
+80728,Fleming,1.059
+80729,Grover,1.039
+80731,Haxtun,1.074
+80732,Weld,1.029
+80733,Washington,1.044
+80734,Holyoke,1.054
+80735,Yuma County,1.029
+80736,Iliff,1.039
+80737,Julesburg,1.082
+80740,Washington,1.044
+80741,Washington,1.044
+80742,Morgan County,1.029
+80743,Otis,1.064
+80744,Ovid,1.069
+80745,Logan,1.039
+80746,Paoli,1.039
+80747,Peetz,1.039
+80749,Sedgwick,1.069
+80750,Morgan County,1.029
+80751,South Platte Valley Rta,1.07
+80754,Weld,1.029
+80755,Yuma County,1.029
+80757,Washington,1.044
+80758,Wray,1.054
+80759,Yuma,1.059
+80801,Washington,1.044
+80802,Cheyenne County,1.029
+80804,Arriba,1.049
+80805,Bethune,1.029
+80807,Burlington,1.059
+80808,Calhan,1.0813
+80809,Pikes Peak Rta,1.0513
+80810,Cheyenne Wells,1.049
+80812,Washington,1.044
+80813,Cripple Creek,1.062
+80814,Teller,1.044
+80815,Flagler,1.049
+80816,Teller,1.044
+80817,Fountain,1.0853
+80818,Genoa,1.049
+80819,Green Mountain Falls,1.0813
+80820,Fremont,1.054
+80821,Hugo,1.069
+80822,Yuma County,1.029
+80823,Lincoln,1.049
+80824,Yuma County,1.029
+80825,Kit Carson,1.049
+80826,Lincoln,1.049
+80827,Park Co South Park Health Service District Sp,1.054
+80828,Limon,1.0765
+80829,Manitou Springs,1.0903
+80830,Elbert,1.039
+80831,Colorado Springs,1.082
+80832,Ramah,1.0713
+80833,Pikes Peak Rta,1.0513
+80834,Seibert,1.049
+80835,Simla,1.079
+80836,Stratton,1.049
+80840,Pikes Peak Rta,1.0513
+80841,Pikes Peak Rta,1.0513
+80860,Victor,1.069
+80861,Vona,1.029
+80862,Lincoln,1.049
+80863,Woodland Park,1.0849
+80864,Pikes Peak Rta,1.0513
+80866,Woodland Park,1.0849
+80901,Colorado Springs,1.082
+80902,Pikes Peak Rta,1.0513
+80903,Colorado Springs,1.082
+80904,Colorado Springs,1.082
+80905,Colorado Springs,1.082
+80906,Fountain,1.0853
+80907,Colorado Springs,1.082
+80908,Colorado Springs,1.082
+80909,Colorado Springs,1.082
+80910,Colorado Springs,1.082
+80911,Colorado Springs,1.082
+80912,Pikes Peak Rta,1.0513
+80913,Colorado Springs,1.082
+80914,Colorado Springs,1.082
+80915,Colorado Springs,1.082
+80916,Colorado Springs,1.082
+80917,Colorado Springs,1.082
+80918,Colorado Springs,1.082
+80919,Colorado Springs,1.082
+80920,Colorado Springs,1.082
+80921,Monument,1.0863
+80922,Colorado Springs,1.082
+80923,Colorado Springs,1.082
+80924,Colorado Springs,1.082
+80925,Colorado Springs,1.082
+80926,Colorado Springs,1.082
+80927,Colorado Springs,1.082
+80928,Pikes Peak Rta,1.0513
+80929,Colorado Springs,1.082
+80930,Pikes Peak Rta,1.0513
+80931,Pikes Peak Rta,1.0513
+80932,Colorado Springs,1.082
+80933,Colorado Springs,1.082
+80934,Colorado Springs,1.082
+80935,Colorado Springs,1.082
+80936,Colorado Springs,1.082
+80937,Colorado Springs,1.082
+80938,Colorado Springs,1.082
+80939,Colorado Springs,1.082
+80941,Colorado Springs,1.082
+80942,Colorado Springs,1.082
+80946,Colorado Springs,1.082
+80947,Colorado Springs,1.082
+80949,Colorado Springs,1.082
+80950,Colorado Springs,1.082
+80951,Colorado Springs,1.082
+80960,Colorado Springs,1.082
+80962,Colorado Springs,1.082
+80970,Pikes Peak Rta,1.0513
+80977,Pikes Peak Rta,1.0513
+80995,Colorado Springs,1.082
+80997,Colorado Springs,1.082
+81001,Pueblo,1.076
+81002,Pueblo,1.076
+81003,Pueblo,1.076
+81004,Pueblo,1.076
+81005,Pueblo,1.076
+81006,Pueblo,1.076
+81007,Pueblo,1.076
+81008,Pueblo,1.076
+81009,Pueblo,1.076
+81010,Pueblo,1.076
+81011,Pueblo,1.076
+81012,Pueblo,1.076
+81019,Pueblo,1.039
+81020,Aguilar,1.074
+81021,Lincoln,1.049
+81022,Pueblo,1.039
+81023,Pueblo,1.039
+81024,Las Animas,1.044
+81025,Boone,1.039
+81027,Branson,1.044
+81029,Baca County,1.029
+81030,Cheraw,1.039
+81033,Crowley,1.049
+81034,Ordway,1.069
+81036,Eads,1.049
+81038,Bent,1.039
+81039,Fowler,1.069
+81040,Huerfano,1.059
+81041,Granada,1.059
+81043,Hartman,1.039
+81044,Bent,1.039
+81045,Lincoln,1.049
+81046,Las Animas,1.044
+81047,Holly,1.069
+81049,Las Animas,1.044
+81050,La Junta Health Services District Sp,1.079
+81052,Lamar,1.069
+81054,Las Animas,1.079
+81055,La Veta,1.094
+81057,Bent,1.039
+81058,Manzanola,1.059
+81059,Las Animas,1.044
+81062,Crowley,1.049
+81063,Ordway,1.069
+81064,Las Animas,1.044
+81067,Rocky Ford,1.079
+81069,Huerfano,1.059
+81071,Prowers,1.039
+81073,Springfield,1.049
+81076,Sugar City,1.049
+81077,Swink,1.039
+81081,Las Animas,1.044
+81082,Trinidad,1.084
+81084,Prowers,1.039
+81087,Baca County,1.029
+81089,Walsenburg,1.089
+81090,Walsh,1.059
+81091,Las Animas,1.044
+81092,Wiley,1.059
+81101,Alamosa,1.084
+81102,Alamosa,1.084
+81120,Antonito,1.089
+81121,Archuleta,1.069
+81122,Bayfield,1.079
+81123,Blanca,1.079
+81124,Conejos,1.049
+81125,Center,1.095
+81126,Costilla,1.049
+81128,Archuleta,1.069
+81129,Conejos,1.049
+81130,Creede,1.095
+81131,Crestone,1.089
+81132,Del Norte,1.075
+81133,Costilla,1.049
+81135,Rio Grande,1.055
+81136,Hooper,1.079
+81137,Ignacio,1.079
+81138,Costilla,1.049
+81140,La Jara,1.079
+81141,Manassa,1.059
+81143,Moffat,1.074
+81144,Monte Vista,1.085
+81146,Alamosa County Local Marketing District,1.059
+81147,Hinsdale,1.079
+81148,Romeo,1.059
+81149,Saguache,1.094
+81151,Sanford,1.049
+81152,San Luis,1.079
+81154,South Fork,1.075
+81155,Bonanza,1.054
+81157,Pagosa Springs,1.069
+81201,Salida,1.0865
+81210,Gunnison Co Tr,1.049
+81211,Buena Vista,1.0815
+81212,Canon City,1.084
+81215,Canon City,1.084
+81220,Gunnison Co Tr,1.049
+81221,Coal Creek,1.054
+81222,Fremont,1.054
+81223,Fremont,1.054
+81224,Crested Butte,1.094
+81225,Mount Crested Butte,1.099
+81226,Florence,1.079
+81227,Chaffee,1.0565
+81228,Lake,1.069
+81230,Gunnison,1.089
+81231,Gunnison,1.089
+81232,Fremont,1.054
+81233,Fremont,1.054
+81235,Hinsdale,1.079
+81236,Chaffee,1.0565
+81237,Gunnison Co Tr,1.049
+81239,Gunnison Co Tr,1.049
+81240,Florence,1.079
+81241,Pitkin,1.069
+81242,Poncha Springs,1.0765
+81243,Hinsdale,1.079
+81244,Rockvale,1.054
+81248,Saguache,1.054
+81251,Lake,1.069
+81252,Silver Cliff,1.079
+81253,Fremont,1.054
+81290,Fremont,1.054
+81301,San Juan,1.094
+81302,Durango,1.084
+81303,Durango,1.084
+81320,Montezuma County,1.033
+81321,Cortez,1.0735
+81323,Dolores,1.068
+81324,Dove Creek,1.06
+81325,San Miguel,1.039
+81326,La Plata,1.049
+81327,Montezuma County,1.033
+81328,Mancos,1.073
+81329,La Plata,1.049
+81330,Montezuma County,1.033
+81331,Montezuma County,1.033
+81332,Rico,1.0815
+81334,Montezuma County,1.033
+81335,Montezuma County,1.033
+81401,Montrose,1.0853
+81402,Montrose,1.0853
+81403,Montrose,1.0853
+81410,Delta,1.065
+81411,Montrose,1.0465
+81413,Cedaredge,1.085
+81414,Orchard City,1.065
+81415,Crawford,1.085
+81416,Delta,1.095
+81418,Cedaredge,1.085
+81419,Hotchkiss,1.085
+81420,Delta,1.065
+81422,Naturita,1.0865
+81423,Norwood,1.069
+81424,Nucla,1.0865
+81425,Olathe,1.0865
+81426,Ophir,1.059
+81427,Ouray,1.0945
+81428,Paonia,1.095
+81429,Montrose,1.0465
+81430,San Miguel Co Rta Tr,1.0415
+81431,Montrose,1.0465
+81432,Ridgway,1.0905
+81433,Silverton,1.104
+81434,Delta,1.065
+81435,Mountain Village,1.0865
+81501,Grand Junction,1.0852
+81502,Grand Junction,1.0852
+81503,Grand Junction,1.0852
+81504,Grand Junction,1.0852
+81505,Grand Junction,1.0852
+81506,Grand Junction,1.0852
+81507,Grand Junction,1.0852
+81520,Grand Junction,1.0852
+81521,Fruita,1.0827
+81522,Mesa,1.0527
+81523,Mesa,1.0527
+81524,Mesa,1.0527
+81525,Mesa,1.0527
+81526,Palisade,1.0727
+81527,Mesa Co Whitewater Lid Sp,1.0627
+81601,Glenwood Sprgs / Roaring Fork Rta,1.086
+81602,Glenwood Sprgs / Roaring Fork Rta,1.086
+81610,Dinosaur,1.07
+81611,Snowmass Village,1.104
+81612,Aspen,1.093
+81615,Snowmass Village,1.104
+81620,Avon,1.089
+81621,Basalt / Roaring Fork Rta,1.093
+81623,Carbondale / Roaring Fork Rta,1.084
+81624,Collbran,1.0727
+81625,Craig,1.089
+81626,Craig,1.089
+81630,De Beque,1.0727
+81631,Eagle,1.094
+81632,Eagle County Mass Transit(Mts),1.099
+81633,Moffat County Local Marketing District,1.049
+81635,Parachute,1.0765
+81636,Garfield,1.039
+81637,Eagle Co Two Rivers Metropolitan District Sp,1.089
+81638,Rio Blanco,1.065
+81639,Hayden,1.089
+81640,Moffat County Local Marketing District,1.049
+81641,Rio Blanco,1.065
+81642,Roaring Fork Rural Transportation Authority,1.069
+81643,Mesa,1.0527
+81645,Minturn,1.089
+81646,Mesa,1.0527
+81647,New Castle / Roaring Fork Rta,1.082
+81648,Rio Blanco,1.065
+81649,Red Cliff,1.079
+81650,Rifle,1.0815
+81652,Silt,1.069
+81653,Moffat County Local Marketing District,1.049
+81654,Roaring Fork Rural Transportation Authority,1.069
+81655,Eagle Co Red Sky Ranch Metropolitan District Sp,1.104
+81656,Roaring Fork Rural Transportation Authority,1.069
+81657,Vail,1.094
+81658,Vail,1.094
+82063,Larimer,1.037

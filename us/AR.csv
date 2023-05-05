@@ -1,0 +1,708 @@
+65761,Marion,1.0825
+71277,Union,1.085
+71601,Pine Bluff,1.1
+71602,Pine Bluff,1.1
+71603,Pine Bluff,1.1
+71611,Pine Bluff,1.1
+71612,Jefferson,1.0875
+71613,Pine Bluff,1.1
+71630,Arkansas City,1.1
+71631,Banks,1.085
+71635,Crossett,1.0975
+71638,Dermott,1.105
+71639,Dumas,1.11
+71640,Eudora,1.105
+71642,Fountain Hill,1.09
+71643,Gould,1.115
+71644,Grady,1.095
+71646,Hamburg,1.11
+71647,Hermitage,1.105
+71651,Bradley,1.085
+71652,Kingsland,1.1075
+71653,Lake Village,1.105
+71654,Mcgehee,1.11
+71655,Monticello,1.0975
+71656,Monticello,1.0975
+71657,Monticello,1.0975
+71658,Drew,1.0875
+71659,Jefferson,1.0775
+71660,Cleveland,1.0975
+71661,Parkdale,1.09
+71662,Desha,1.08
+71663,Ashley,1.09
+71665,Rison,1.1075
+71666,Desha,1.08
+71667,Cleveland,1.0975
+71670,Tillar,1.0875
+71671,Cleveland,1.0975
+71674,Watson,1.08
+71675,Wilmar,1.0875
+71676,Wilmot,1.1
+71677,Winchester,1.0875
+71678,Lincoln,1.085
+71701,Camden,1.1025
+71711,Camden,1.1025
+71720,Bearden,1.095
+71721,Clark,1.08
+71722,Bluff City,1.085
+71724,Calion,1.085
+71725,Cleveland,1.0975
+71726,Chidester,1.105
+71728,Clark,1.08
+71730,El Dorado,1.0975
+71731,El Dorado,1.0975
+71740,Emerson,1.09
+71742,Fordyce,1.1
+71743,Gurdon,1.095
+71744,Hampton,1.095
+71745,Harrell,1.09
+71747,Felsenthal,1.085
+71748,Dallas,1.085
+71749,Union,1.095
+71750,Union,1.085
+71751,Louann,1.085
+71752,Nevada,1.085
+71753,Magnolia,1.10375
+71754,Magnolia,1.10375
+71758,Union,1.085
+71759,Norphlet,1.085
+71762,Smackover,1.085
+71763,Sparkman,1.095
+71764,Stephens,1.095
+71765,Union,1.095
+71766,Thornton,1.1
+71770,Willisville,1.085
+71772,Whelen Springs,1.08
+71801,Hope,1.095
+71802,Hope,1.095
+71820,Little River,1.09375
+71822,Ashdown,1.11375
+71823,Ben Lomond,1.09625
+71825,Blevins,1.1
+71826,Bradley,1.0975
+71827,Buckner,1.0875
+71828,Cale,1.085
+71831,Howard,1.0925
+71832,Horatio,1.10625
+71833,Dierks,1.1025
+71834,Miller,1.0775
+71835,Emmet,1.085
+71836,Foreman,1.10375
+71837,Fouke,1.0875
+71838,Mcnab,1.1
+71839,Garland,1.0875
+71840,Miller,1.0775
+71841,Gillham,1.12625
+71842,Horatio,1.10625
+71845,Lewisville,1.0975
+71846,Lockesburg,1.10375
+71847,Mccaskill,1.1
+71851,Mineral Springs,1.1025
+71852,Nashville,1.1025
+71853,Ogden,1.09375
+71854,Texarkana,1.1025
+71855,Ozan,1.085
+71857,Prescott,1.095
+71858,Rosston,1.095
+71859,Howard,1.0925
+71860,Stamps,1.0975
+71861,Taylor,1.1
+71862,Washington,1.095
+71864,Willisville,1.085
+71865,Wilton,1.10375
+71866,Winthrop,1.09375
+71901,Hot Springs,1.095
+71902,Hot Springs,1.095
+71903,Hot Springs,1.095
+71909,Garland,1.08
+71910,Garland,1.08
+71913,Hot Springs,1.095
+71914,Hot Springs,1.095
+71920,Clark,1.08
+71921,Amity,1.095
+71922,Antoine,1.085
+71923,Arkadelphia,1.1
+71929,Clark,1.08
+71932,Polk,1.085
+71933,Montgomery,1.095
+71935,Montgomery,1.095
+71937,Cove,1.105
+71940,Delight,1.095
+71941,Donaldson,1.08
+71942,Friendship,1.08
+71943,Glenwood,1.1
+71944,Wickes,1.095
+71945,Hatfield,1.095
+71949,Montgomery,1.095
+71950,Daisy,1.085
+71952,Pike,1.085
+71953,Montgomery,1.095
+71956,Mountain Pine,1.08
+71957,Mount Ida,1.105
+71958,Murfreesboro,1.1
+71959,Howard,1.0925
+71960,Norman,1.105
+71961,Oden,1.095
+71962,Okolona,1.08
+71964,Garland,1.08
+71965,Montgomery,1.095
+71966,Oden,1.095
+71968,Montgomery,1.095
+71969,Montgomery,1.095
+71970,Montgomery,1.095
+71971,Howard,1.0925
+71972,Vandervoort,1.095
+71973,Wickes,1.095
+71998,Arkadelphia,1.1
+71999,Arkadelphia,1.1
+72001,Adona,1.0925
+72002,Alexander,1.105
+72003,Almyra,1.085
+72004,Altheimer,1.0875
+72005,Amagon,1.0875
+72006,Augusta,1.095
+72007,Austin,1.1
+72010,Bald Knob,1.0975
+72011,Benton,1.09375
+72012,Beebe,1.095
+72013,Conway,1.0825
+72014,Beedeville,1.0925
+72015,Bryant,1.09875
+72016,Bigelow,1.0925
+72017,Fredonia (Biscoe),1.08
+72018,Benton,1.09375
+72019,Bryant,1.09875
+72020,Bradford,1.1025
+72021,Brinkley,1.095
+72022,Bryant,1.09875
+72023,Austin,1.1
+72024,Carlisle,1.10125
+72025,Adona,1.0925
+72026,Arkansas,1.075
+72027,Conway,1.0825
+72028,Van Buren,1.08
+72029,Clarendon,1.105
+72030,Conway,1.0825
+72031,Clinton,1.09
+72032,Conway,1.0875
+72033,Conway,1.0875
+72034,Conway,1.0875
+72035,Conway,1.0875
+72036,Cotton Plant,1.095
+72037,Coy,1.08
+72038,Arkansas,1.075
+72039,Van Buren,1.09
+72040,Des Arc,1.11
+72041,De Valls Bluff,1.1
+72042,De Witt,1.11
+72043,Diaz,1.0975
+72044,Cleburne,1.08125
+72045,White,1.0825
+72046,England,1.11
+72047,Enola,1.07
+72048,Arkansas,1.075
+72051,Stone,1.08
+72052,Garner,1.0825
+72053,Pulaski,1.075
+72055,Gillett,1.105
+72057,Cleveland,1.0975
+72058,Greenbrier,1.095
+72059,Woodruff,1.085
+72060,Griffithville,1.0825
+72061,Guy,1.085
+72063,Conway,1.0825
+72064,Hazen,1.11
+72065,Grant,1.0775
+72066,Prairie,1.08
+72067,Greers Ferry,1.09125
+72068,Higginson,1.0925
+72069,Holly Grove,1.095
+72070,Houston,1.0925
+72072,Humnoke,1.09
+72073,Humphrey,1.0875
+72074,Hunter,1.085
+72075,Jacksonport,1.0875
+72076,Jacksonville,1.095
+72078,Jacksonville,1.095
+72079,Grant,1.0775
+72080,Conway,1.0825
+72081,Searcy,1.0975
+72082,Searcy,1.0975
+72083,Keo,1.09
+72084,Dallas,1.085
+72085,Letona,1.0825
+72086,Lonoke,1.11
+72087,Fountain Lake,1.08
+72088,Fairfield Bay,1.09625
+72089,Bryant,1.09875
+72099,Jacksonville,1.095
+72101,Cross,1.095
+72102,Searcy,1.0975
+72103,Little Rock,1.08625
+72104,Rockport,1.11
+72106,Mayflower,1.095
+72107,Menifee,1.1125
+72108,Monroe,1.065
+72110,Morrilton,1.0925
+72111,White,1.0825
+72112,Newport,1.1025
+72113,North Little Rock,1.095
+72114,North Little Rock,1.095
+72115,North Little Rock,1.095
+72116,North Little Rock,1.095
+72117,North Little Rock,1.095
+72118,North Little Rock,1.095
+72119,North Little Rock,1.095
+72120,North Little Rock,1.095
+72121,White,1.0925
+72122,Pulaski,1.075
+72123,Patterson,1.095
+72124,Sherwood,1.095
+72125,Perry,1.0925
+72126,Perryville,1.1025
+72127,Menifee,1.1125
+72128,Hot Spring,1.08
+72129,Prattsville,1.0775
+72130,Cleburne,1.08125
+72131,Quitman,1.09625
+72132,Redfield,1.0975
+72133,Jefferson,1.0775
+72134,Arkansas,1.075
+72135,Perry,1.0925
+72136,White,1.0825
+72137,Rose Bud,1.1025
+72139,Russell,1.0825
+72140,Saint Charles,1.095
+72141,Van Buren,1.08
+72142,North Little Rock,1.095
+72143,Searcy,1.0975
+72145,Searcy,1.0975
+72149,Searcy,1.0975
+72150,Sheridan,1.0975
+72152,Sherrill,1.0875
+72153,Fairfield Bay,1.09625
+72156,Conway,1.0825
+72157,Conway,1.0825
+72158,Benton,1.09375
+72160,Stuttgart,1.105
+72164,Pulaski,1.075
+72165,Independence,1.08
+72166,Arkansas,1.075
+72167,Hot Spring,1.08
+72168,Jefferson,1.0775
+72169,Tupelo,1.0875
+72170,Ulm,1.08
+72173,Vilonia,1.0975
+72175,Wabbaseka,1.0975
+72176,Ward,1.1
+72178,West Point,1.0825
+72179,Cleburne,1.08125
+72180,Pulaski,1.075
+72181,Wooster,1.07
+72182,Jefferson,1.0775
+72183,Wrightsville,1.075
+72190,North Little Rock,1.095
+72199,North Little Rock,1.095
+72201,Little Rock,1.08625
+72202,Little Rock,1.08625
+72203,Little Rock,1.08625
+72204,Little Rock,1.08625
+72205,Little Rock,1.08625
+72206,North Little Rock,1.095
+72207,Little Rock,1.08625
+72209,Little Rock,1.08625
+72210,Little Rock,1.08625
+72211,Maumelle,1.095
+72212,Little Rock,1.08625
+72214,Little Rock,1.08625
+72215,Little Rock,1.08625
+72216,Little Rock,1.08625
+72217,Little Rock,1.08625
+72219,Little Rock,1.08625
+72221,Little Rock,1.08625
+72222,Little Rock,1.08625
+72223,Little Rock,1.08625
+72225,Little Rock,1.08625
+72227,Little Rock,1.08625
+72231,North Little Rock,1.095
+72255,Little Rock,1.08625
+72260,Little Rock,1.08625
+72295,Little Rock,1.08625
+72301,Marion,1.1025
+72303,West Memphis,1.0975
+72310,Mississippi,1.09
+72311,Aubrey,1.075
+72312,Phillips,1.085
+72313,Bassett,1.09
+72315,Blytheville,1.105
+72316,Blytheville,1.105
+72319,Gosnell,1.105
+72320,Lee,1.075
+72321,Burdette,1.09
+72322,Caldwell,1.095
+72324,Cherry Valley,1.105
+72325,Clarkedale,1.0825
+72326,Forrest City,1.11375
+72327,Crawfordsville,1.1025
+72328,Phillips,1.085
+72329,Mississippi,1.09
+72330,Dyess,1.09
+72331,Parkin,1.105
+72332,Edmondson,1.0825
+72333,Elaine,1.085
+72335,Forrest City,1.11375
+72336,Forrest City,1.11375
+72338,Mississippi,1.09
+72339,Gilmore,1.0925
+72340,Saint Francis,1.095
+72341,Haynes,1.075
+72342,Phillips,1.105
+72346,Cross,1.095
+72347,Hickory Ridge,1.095
+72348,Hughes,1.105
+72350,Joiner,1.1025
+72351,Keiser,1.11
+72352,La Grange,1.075
+72353,Phillips,1.085
+72354,Lepanto,1.0975
+72355,Phillips,1.105
+72358,Luxora,1.1
+72359,Madison,1.105
+72360,Marianna,1.095
+72364,Sunset,1.1125
+72365,Marked Tree,1.1025
+72366,Marvell,1.105
+72367,Phillips,1.085
+72368,Moro,1.085
+72369,Phillips,1.085
+72370,Osceola,1.1
+72372,Palestine,1.115
+72373,Parkin,1.105
+72374,Phillips,1.085
+72376,Jennette,1.105
+72377,Poinsett,1.0825
+72379,Desha,1.08
+72383,Phillips,1.085
+72384,Turrell,1.1025
+72386,Tyronza,1.0925
+72387,Cross,1.095
+72389,Phillips,1.085
+72390,Phillips,1.105
+72391,Mississippi,1.09
+72392,Wheatley,1.105
+72394,Saint Francis,1.1125
+72395,Mississippi,1.1
+72396,Cross,1.105
+72401,Craighead,1.105
+72402,Jonesboro,1.085
+72403,Jonesboro,1.085
+72404,Jonesboro,1.085
+72405,Craighead,1.105
+72410,Alicia,1.09
+72411,Craighead,1.085
+72412,Greene,1.07875
+72413,Clay,1.08
+72414,Black Oak,1.075
+72415,Black Rock,1.1
+72416,Craighead,1.085
+72417,Craighead,1.105
+72419,Mississippi,1.09
+72421,Jackson,1.0875
+72422,Corning,1.0975
+72424,Datto,1.08
+72425,Delaplaine,1.07875
+72426,Dell,1.09
+72427,Egypt,1.075
+72428,Etowah,1.1
+72429,Cross,1.095
+72430,Greenway,1.08
+72431,Grubbs,1.0875
+72432,Harrisburg,1.1025
+72433,Walnut Ridge,1.11
+72434,Imboden,1.1
+72435,Knobel,1.08
+72436,Clay,1.08
+72437,Craighead,1.085
+72438,Leachville,1.1
+72440,Lynn,1.09
+72441,Clay,1.08
+72442,Manila,1.1025
+72443,Greene,1.09125
+72444,Randolph,1.0925
+72445,Minturn,1.09
+72447,Craighead,1.085
+72449,O�Kean,1.0775
+72450,Greene,1.08875
+72451,Paragould,1.08625
+72453,Peach Orchard,1.08
+72454,Piggott,1.1
+72455,Pocahontas,1.0975
+72456,Pollard,1.08
+72457,Portia,1.1
+72458,Powhatan,1.09
+72459,Ravenden,1.1
+72460,Ravenden Springs,1.0775
+72461,Rector,1.1
+72462,Reyno,1.0775
+72464,Clay,1.08
+72465,Sedgwick,1.09
+72466,Smithville,1.09
+72467,Jonesboro,1.085
+72469,Strawberry,1.09
+72470,Success,1.08
+72471,Swifton,1.0975
+72472,Trumann,1.1025
+72473,Tuckerman,1.1
+72474,Greene,1.07875
+72475,Waldenburg,1.1025
+72476,Walnut Ridge,1.11
+72478,Randolph,1.0775
+72479,Waldenburg,1.1025
+72482,Lawrence,1.09
+72501,Moorefield,1.1
+72503,Batesville,1.1
+72512,Horseshoe Bend,1.115
+72513,Ash Flat,1.10875
+72515,Fulton,1.095
+72517,Oxford,1.08
+72519,Calico Rock,1.1
+72520,Fulton,1.095
+72521,Sharp,1.0925
+72522,Independence,1.08
+72523,Concord,1.09125
+72524,Independence,1.08
+72525,Sharp,1.0925
+72526,Cushman,1.09
+72527,Independence,1.08
+72528,Izard,1.07
+72529,Fulton,1.105
+72530,Cleburne,1.08125
+72531,Fulton,1.095
+72532,Evening Shade,1.0925
+72533,Fifty-Six,1.08
+72534,Cleburne,1.08125
+72536,Franklin,1.08
+72537,Baxter,1.0775
+72538,Fulton,1.095
+72539,Fulton,1.095
+72540,Guion,1.08
+72542,Fulton,1.105
+72543,Heber Springs,1.09125
+72544,Baxter,1.0775
+72545,Heber Springs,1.09125
+72546,Cleburne,1.08125
+72550,Cleburne,1.08125
+72553,Magness,1.08
+72554,Mammoth Spring,1.105
+72555,Stone,1.08
+72556,Melbourne,1.09
+72560,Mountain View,1.1
+72561,Independence,1.08
+72562,Newark,1.08
+72564,Oil Trough,1.08
+72565,Oxford,1.08
+72566,Izard,1.07
+72567,Stone,1.08
+72568,Pleasant Plains,1.1
+72569,Sharp,1.0825
+72571,Independence,1.08
+72572,Lawrence,1.09
+72573,Melbourne,1.09
+72575,Independence,1.08
+72576,Salem,1.105
+72577,Sidney,1.0825
+72578,Fulton,1.095
+72579,Sharp,1.0825
+72581,Cleburne,1.08125
+72583,Viola,1.115
+72584,Izard,1.07
+72585,Izard,1.07
+72587,Izard,1.07
+72601,Harrison,1.095
+72602,Harrison,1.095
+72611,Alpena,1.0875
+72613,Beaver,1.07
+72615,Bergman,1.0775
+72616,Berryville,1.09
+72617,Baxter,1.0875
+72619,Bull Shoals,1.1025
+72623,Baxter,1.0775
+72624,Newton,1.075
+72626,Cotter,1.0975
+72628,Newton,1.075
+72629,Searcy,1.08
+72630,Diamond City,1.0875
+72631,Eureka Springs,1.09375
+72632,Eureka Springs,1.09375
+72633,Marion,1.0825
+72634,Bull Shoals,1.1025
+72635,Cotter,1.0975
+72636,Gilbert,1.09
+72638,Green Forest,1.0925
+72639,Searcy,1.09
+72640,Newton,1.075
+72641,Jasper,1.095
+72642,Lakeview,1.0875
+72644,Lead Hill,1.0875
+72645,Leslie,1.09
+72648,Newton,1.075
+72650,Marshall,1.085
+72651,Baxter,1.0775
+72653,Mountain Home,1.09875
+72654,Mountain Home,1.09875
+72655,Newton,1.075
+72657,Stone,1.08
+72658,Baxter,1.0875
+72659,Norfork,1.0875
+72660,Oak Grove,1.08
+72661,Marion,1.0825
+72662,Omaha,1.0775
+72663,Stone,1.08
+72666,Jasper,1.095
+72668,Marion,1.0825
+72669,Pindall,1.08
+72670,Newton,1.075
+72672,Pyatt,1.0875
+72675,Gilbert,1.09
+72677,Summit,1.0925
+72679,Searcy,1.08
+72680,Searcy,1.08
+72682,Marion,1.0825
+72683,Newton,1.075
+72685,Western Grove,1.085
+72686,Searcy,1.08
+72687,Yellville,1.1025
+72701,Greenland,1.1075
+72702,Fayetteville,1.0975
+72703,Goshen,1.0975
+72704,Johnson,1.1075
+72711,Avoca,1.085
+72712,Bentonville,1.095
+72713,Cave Springs,1.0975
+72714,Bentonville,1.095
+72715,Bella Vista,1.095
+72716,Bentonville,1.095
+72717,Crawford,1.0775
+72718,Cave Springs,1.0975
+72719,Centerton,1.095
+72721,Madison,1.09
+72722,Decatur,1.095
+72727,Elkins,1.105
+72728,Elm Springs,1.0875
+72729,Washington,1.0775
+72730,Prairie Grove,1.105
+72732,Garfield,1.09
+72733,Gateway,1.075
+72734,Highfill,1.095
+72735,Goshen,1.0975
+72736,Bella Vista,1.095
+72737,Fayetteville,1.0975
+72738,Hindsville,1.09
+72739,Bella Vista,1.095
+72740,Huntsville,1.11
+72741,Johnson,1.1075
+72742,Madison,1.09
+72744,Lincoln,1.1075
+72745,Cave Springs,1.0975
+72747,Benton,1.075
+72749,Washington,1.0775
+72751,Bella Vista,1.095
+72752,Madison,1.09
+72753,Prairie Grove,1.105
+72756,Bentonville,1.095
+72757,Rogers,1.095
+72758,Cave Springs,1.0975
+72760,Saint Paul,1.11
+72761,Gentry,1.095
+72762,Johnson,1.1075
+72764,Fayetteville,1.0975
+72765,Springdale,1.0975
+72766,Springdale,1.0975
+72768,Sulphur Springs,1.085
+72769,Washington,1.0775
+72770,Tontitown,1.105
+72773,Madison,1.09
+72774,West Fork,1.1075
+72776,Madison,1.09
+72801,Russellville,1.09
+72802,Atkins,1.095
+72811,Russellville,1.09
+72812,Russellville,1.09
+72820,Franklin,1.085
+72821,Altus,1.095
+72823,Atkins,1.095
+72824,Danville,1.09125
+72826,Blue Mountain,1.095
+72827,Scott,1.085
+72828,Yell,1.07625
+72829,Yell,1.07625
+72830,Clarksville,1.095
+72832,Johnson,1.085
+72833,Danville,1.09125
+72834,Dardanelle,1.09625
+72835,Logan,1.085
+72837,Dover,1.095
+72838,Scott,1.085
+72839,Johnson,1.075
+72840,Johnson,1.085
+72841,Scott,1.085
+72842,Havana,1.08625
+72843,Hector,1.09
+72845,Knoxville,1.075
+72846,Lamar,1.095
+72847,London,1.085
+72851,Logan,1.085
+72852,Johnson,1.075
+72853,Ola,1.09625
+72854,Johnson,1.075
+72855,Paris,1.1
+72856,Newton,1.075
+72857,Perry,1.0925
+72858,Pottsville,1.09
+72860,Yell,1.07625
+72863,Scranton,1.095
+72865,Subiaco,1.095
+72901,Fort Smith,1.095
+72902,Fort Smith,1.095
+72903,Fort Smith,1.095
+72904,Fort Smith,1.095
+72905,Barling,1.095
+72906,Fort Smith,1.095
+72908,Fort Smith,1.095
+72913,Fort Smith,1.095
+72914,Fort Smith,1.095
+72916,Barling,1.095
+72917,Fort Smith,1.095
+72918,Fort Smith,1.095
+72919,Fort Smith,1.095
+72921,Alma,1.0975
+72923,Barling,1.095
+72926,Scott,1.085
+72927,Booneville,1.105
+72928,Branch,1.095
+72930,Franklin,1.085
+72932,Cedarville,1.0875
+72933,Charleston,1.1
+72934,Chester,1.0775
+72935,Dyer,1.0875
+72936,Greenwood,1.095
+72937,Hackett,1.085
+72938,Hartford,1.095
+72940,Huntington,1.09
+72941,Barling,1.095
+72943,Magazine,1.105
+72944,Mansfield,1.11
+72945,Midland,1.085
+72946,Mountainburg,1.1025
+72947,Alma,1.0975
+72948,Crawford,1.0775
+72949,Ozark,1.105
+72950,Scott,1.085
+72951,Ratcliff,1.085
+72952,Cedarville,1.0875
+72955,Crawford,1.0775
+72956,Van Buren,1.0925
+72957,Van Buren,1.0925
+72958,Waldron,1.095
+72959,Winslow,1.0975
+74902,Sebastian,1.075
